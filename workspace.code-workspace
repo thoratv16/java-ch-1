@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Sample"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "java ch 1"
+	}
+}
